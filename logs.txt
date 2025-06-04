@@ -8,3 +8,24 @@ Endpoint: /api/users
 Method: POST
 Endpoint: /api/users
 -------------------------------------------
+Method: GET
+Endpoint: /profile/68365ceac10d9f196a05f952/edit
+-------------------------------------------
+Method: GET
+Endpoint: /favicon.ico
+-------------------------------------------
+Method: GET
+Endpoint: /
+-------------------------------------------
+Method: GET
+Endpoint: /
+-------------------------------------------
+Method: GET
+Endpoint: /favicon.ico
+-------------------------------------------
+Method: GET
+Endpoint: /services
+-------------------------------------------
+Method: GET
+Endpoint: /api/users
+-------------------------------------------
